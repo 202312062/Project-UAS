@@ -1,4 +1,5 @@
 2. Struktur Database
+
 Aplikasi ini menggunakan minimal 10 tabel yang saling berelasi untuk mengelola data toko elektronik secara komprehensif, ditambah dua tabel opsional untuk pembayaran dan log aktivitas.
 
 Penjelasan Tabel
